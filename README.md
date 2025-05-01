@@ -1,4 +1,4 @@
-💻 Interface Gráfica com Java | Introdução ao Swing e JOptionPane
+💻 Interface Gráfica com Java | Introdução ao Swing e JOptionPane 
 
 Este projeto reúne meus primeiros exercícios práticos com interfaces gráficas (GUI) em Java, utilizando a  biblioteca Swing e a classe JOptionPane para entrada e saída de dados de forma interativa e amigável.
 
@@ -22,6 +22,6 @@ String outronome = JOptionPane.showInputDialog(null, "Qual o outro nome?", "Entr
 JOptionPane.showMessageDialog(null, "Nome é " + nome);
 JOptionPane.showMessageDialog(null, "O outro nome é " + outronome);
 
-🛠 Aprendizados
+🛠 Aprendizados:
 - Criação de uma calculadora gráfica com campos de entrada, botões de operação (soma, subtração, multiplicação, divisão, resto) e exibição de resultado.
 - Desenvolvimento de interfaces utilizando o Editor Visual do NetBeans, com arraste de componentes (JFrame, JLabel, JTextField, JButton, etc.)
